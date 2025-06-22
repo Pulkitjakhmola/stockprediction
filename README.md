@@ -1,6 +1,12 @@
-# Stock Prediction Model -By Pulkit Jakhmola📈
+# Stock Prediction Model -By Pulkit Jakhmola
 
 A machine learning-powered stock prediction model that forecasts future stock prices, including tomorrow's predicted price. This project uses advanced algorithms to analyze historical stock data and make accurate predictions for informed trading decisions.
+
+--
+Live Application
+ Try the application now: Stellar Trade - Stock Prediction App
+Experience the stock prediction model in action with our interactive web application! No installation required - just click the link above to start predicting stock prices.
+--
 
 ##  Features
 
@@ -48,7 +54,7 @@ The model achieves:
 
 Before running this project, make sure you have Python 3.7+ installed on your system.
 
-## 🔧 Installation
+## Installation
 
 1. **Clone the repository**
    ```bash
@@ -208,4 +214,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 
-⭐ **If you found this project helpful, please give it a star!** ⭐
+ **If you found this project helpful, please give it a star!** 
