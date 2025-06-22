@@ -4,7 +4,7 @@ A machine learning-powered stock prediction model that forecasts future stock pr
 
 --
 Live Application
- Try the application now: Stellar Trade - Stock Prediction App
+ Try the application now: Stellar Trade - https://pulkitstellartrade.streamlit.app
 Experience the stock prediction model in action with our interactive web application! No installation required - just click the link above to start predicting stock prices.
 --
 
