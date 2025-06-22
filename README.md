@@ -2,11 +2,11 @@
 
 A machine learning-powered stock prediction model that forecasts future stock prices, including tomorrow's predicted price. This project uses advanced algorithms to analyze historical stock data and make accurate predictions for informed trading decisions.
 
---
-Live Application
+
+## Live Application
  Try the application now: Stellar Trade - https://pulkitstellartrade.streamlit.app
-Experience the stock prediction model in action with our interactive web application! No installation required - just click the link above to start predicting stock prices.
---
+- Experience the stock prediction model in action with our interactive web application! No installation required - just click the link above to start    predicting stock prices.
+
 
 ##  Features
 
