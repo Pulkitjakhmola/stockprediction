@@ -9,10 +9,11 @@ from sklearn.preprocessing import MinMaxScaler
 
 st.title("Stock Price Predictor App")
 
-
 st.markdown("### Developed by: Pulkit Jakhmola")  
 
 stock = st.text_input("Enter the stock ID", "GOOG")
+st.caption(" Add `.NS` after the stock ID for Indian stocks. For example: State Bank of India = `SBIN.NS` (where `SBIN` is the stock ID).")
+
 end = datetime.now()
 start = datetime(end.year - 20, end.month, end.day)
 google = yf.download(stock, start, end)
@@ -83,7 +84,6 @@ else:
     plt.legend()
     st.pyplot(fig)
 
-    
     last_100_days = scaled_data[-100:] 
     last_100_days = last_100_days.reshape((1, last_100_days.shape[0], last_100_days.shape[1]))  
 
